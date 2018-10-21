@@ -41,3 +41,4 @@
 | 33. | Ariel Teague | Arkansas, USA| Backend Software Engineer - ML - Game Devlopment | [GitHub](https://github.com/ArielBurningLadyStudios) - [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/) |
 | 32. | Rajesh Mohan |  New York | Stony Brook University - Python - Data Science -  React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
 | 34. | Jayesh Patel | India | Final Year Undergrad, MEAN Developer - Interested in pursuing MS at Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
+| 34. | Utkarsh Mittal | India | First Year Undergrad, pursuing BTech at AKGEC 2022| [GitHub](https://github.com/Stell1c) |
